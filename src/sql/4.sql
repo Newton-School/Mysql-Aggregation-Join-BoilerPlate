@@ -1,0 +1,2 @@
+-- Find the count of all the flights having id going to 'Paris' with fields name 'destination_paris' only;
+SELECT COUNT(*) FROM flights WHERE destination IN (SELECT id FROM locations WHERE name = 'Paris');
