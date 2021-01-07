@@ -1,6 +1,6 @@
 -- Query all the flights where origin is 'New York'
 
-SELECT * FROM flights WHERE origin IN (SELECT id FROM locations WHERE name = 'New York');
+
 
 -- out put data format
 -- id origin destination duration
