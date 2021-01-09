@@ -1,4 +1,4 @@
--- show the list of passengers along with flights description in increasing order of duration
+-- show the list of passengers along with flights description
 -- Join all the tables (flights, location, and passengers);
 
 
