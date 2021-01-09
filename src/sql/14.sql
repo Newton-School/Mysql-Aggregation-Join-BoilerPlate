@@ -1,2 +1,2 @@
--- Query the flight having id 3 
+-- Query the flight having id 3 from flights table 
 -- origin and destination should be matched with the locations table name
