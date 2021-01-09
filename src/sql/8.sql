@@ -1,1 +1,1 @@
--- Query all the flights going to 'London' or duration is more than 500 form flights table
+-- Query all the flights from 'London' or duration is more than 500 form flights table
