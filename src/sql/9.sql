@@ -1,1 +1,1 @@
--- Query all the flights where duration is more than 5000 from flights table
+-- Query all the flights where duration is more than 450 from flights table
