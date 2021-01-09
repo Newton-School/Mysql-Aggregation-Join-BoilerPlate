@@ -1,4 +1,4 @@
--- Query maximum duration flight from flight table with flilds name 'max_duration' only.
+-- Query maximum duration flight from flight table with fields name 'max_duration' only.
 
 
 -- Output format
